@@ -1,0 +1,19 @@
+{
+  "name": "auth-tutorials",
+  "version": "1.0.0",
+  "description": "Learning different types of authentication mechanism",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmedsaka91@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "cookie-parser": "^1.4.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.0.2"
+  }
+}
